@@ -2,6 +2,8 @@
 
 End-to-end credit risk analysis of **~100,000 bank loan records** in Python, identifying which borrowers and loan types are most likely to default (be *charged off*) and turning the findings into lending recommendations.
 
+![CreditLens dashboard](images/creditlens_dashboard.svg)
+
 ## 🎯 Business Problem
 A lender wants to reduce loan defaults. Which loan terms, purposes and borrower profiles carry the highest risk, and how should approval and pricing rules change?
 
@@ -29,6 +31,8 @@ Public bank loan dataset (Kaggle): 100,514 rows × 19 columns, including loan am
 | Safest purpose | Buy a car (**18.8%**) |
 | Median income: defaulted vs repaid | **10.9% lower** for defaulted borrowers |
 | Median estimated debt-to-income | **18.5%** (defaulted) vs **16.2%** (repaid) |
+
+![Charged-off rate by credit score band](images/default_rate_by_credit_score.svg)
 
 ## 💡 Business Recommendations
 1. **Tighten approval for long-term loans**, which default almost twice as often as short-term loans.
