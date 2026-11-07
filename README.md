@@ -47,4 +47,4 @@ Loan outcome distribution · Credit score distribution and score bands · Annual
 | `credit_train_cleaned.csv` / `credit_test_cleaned.csv` | Cleaned data |
 
 ## 👤 Author
-**Davis Wilson**, Data Analyst · [LinkedIn](https://www.linkedin.com/in/davis-wilson-3059b0444) · [GitHub](https://github.com/DataWithDavis)
+**Davis Wilson**, Data Analyst · [LinkedIn](https://www.linkedin.com/in/datawithdavis) · [GitHub](https://github.com/DataWithDavis)
